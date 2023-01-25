@@ -1,0 +1,29 @@
+.body-lista{
+    height: 100vh;
+    width: 100vw;
+    background-image: url("/img/background3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: 0px;
+}
+table{
+    width: 100%;
+    color: white;
+    margin-top: 0.4em;
+    padding: 1em;
+}
+.tb-1{
+    margin-top: 5em;
+}
+
+
+@media (max-width:500px) {
+    .body-lista{
+        background-image: url("/img/background2.png");
+        
+    }
+    .Logo-menu{
+        width: 35%;
+    }
+    
+}
