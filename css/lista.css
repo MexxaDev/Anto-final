@@ -1,7 +1,7 @@
 .body-lista{
     height: 100vh;
     width: 100vw;
-    background-image: url("/img/background3.png");
+    background-image: url("/img/background3.webp");
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: 0px;
@@ -19,7 +19,7 @@ table{
 
 @media (max-width:500px) {
     .body-lista{
-        background-image: url("/img/background2.png");
+        background-image: url("/img/background2.webp");
         
     }
     .Logo-menu{
